@@ -1,6 +1,6 @@
 # SuperMimic 中文论文解读
 
-Baochen Tian 整理的非官方讲解幻灯片，涵盖参考动作与策略输入、世界模型、策略训练，以及论文中的实验结果。
+SuperMimic 论文的中文讲解，包含策略输入、世界模型、训练流程和实验结果。
 
 > **原稿使用 Apple Keynote 制作，以 `.key` 为准。** PDF 和可编辑 PPTX 均为导出版本，部分公式、字体和排版可能与 Keynote 原稿不同。PDF 不包含可播放的视频或逐步动画；PPTX 中的动画和视频也可能因播放软件而异。
 
@@ -16,4 +16,6 @@ Baochen Tian 整理的非官方讲解幻灯片，涵盖参考动作与策略输�
 - [官方项目页及演示](https://supermimic.github.io/) · [官方代码](https://github.com/HybridRobotics/supermimic)
 - [LAFAN1 动捕数据集](https://github.com/ubisoft/ubisoft-laforge-animation-dataset)
 
-论文、数据及演示素材的权利归各自权利人。
+## 许可证
+
+原创内容采用 [MIT 许可证](LICENSE)。

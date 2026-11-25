@@ -2,13 +2,15 @@
 
 SuperMimic 论文的中文讲解，包含策略输入、世界模型、训练流程和实验结果。
 
-> **原稿使用 Apple Keynote 制作，以 `.key` 为准。** PDF 和可编辑 PPTX 均为导出版本，部分公式、字体和排版可能与 Keynote 原稿不同。PDF 不包含可播放的视频或逐步动画；PPTX 中的动画和视频也可能因播放软件而异。
+> **原稿使用 Apple Keynote 制作，以 `.key` 为准。** PDF 不包含可播放的视频或逐步动画。
+>
+> **PowerPoint 版已按 33 页 Keynote 原稿修复。** 修正了公式排版、中文换行、流程图箭头和图表标题。正文和图表可继续编辑，公式的可编辑副本保留在 PowerPoint 的「选择窗格」中。讲者备注、嵌入视频和动画设置均已保留，播放效果可能因软件而异。
 
 | 格式 | 下载 |
 | --- | --- |
 | Keynote 原稿（推荐） | [SuperMimic.key](../../raw/refs/heads/main/SuperMimic.key) |
 | PDF（快速阅读） | [SuperMimic.pdf](../../raw/refs/heads/main/SuperMimic.pdf) |
-| PowerPoint（可编辑） | [SuperMimic.pptx](../../raw/refs/heads/main/SuperMimic.pptx) |
+| PowerPoint（修复版，可编辑） | [SuperMimic.pptx](../../raw/refs/heads/main/SuperMimic.pptx) |
 
 ## 原论文和相关项目
 
